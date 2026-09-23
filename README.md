@@ -53,7 +53,12 @@ Because of the symmetry of the tee, when power enters the auxiliary arm and the 
 
 ## Observation
 
-*(Include your own table relevant to the experiment.)*
+
+| S.No | Port Fed       | Port Measured | \(A_1\) (dB) | \(A_2\) (dB) | Coupling \(A_1-A_2\) (dB) |
+| ---: | -------------- | ------------- | -----------: | -----------: | ------------------------: |
+|    1 | H-arm (Port 3) | Port 1        |           20 |           17 |                         3 |
+|    2 | H-arm (Port 3) | Port 2        |           20 |           17 |                         3 |
+
 
 ---
 
